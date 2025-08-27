@@ -51,9 +51,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/the-wild-oasis.git
-   cd the-wild-oasis
-   Install dependencies
+   git clone https://github.com/srivastavapk418/-The-Wild-Oasis-Internal-Hotel-Management-System.git
+   cd -The-Wild-Oasis-Internal-Hotel-Management-System
    ```
 
 -> npm install
@@ -65,7 +64,7 @@ Build for production
 -> npm run build
 🌐 Deployment
 The app is deployed on Netlify.
-👉 Live URL: [](https://the-wild-oasis-ops.netlify.app/) (replace with your final URL)
+👉 Live URL: https://the-wild-oasis-ops.netlify.app/
 
 🧑‍💻 Usage (for Staff):
 Log in with your staff account.
