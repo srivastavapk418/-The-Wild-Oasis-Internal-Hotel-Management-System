@@ -1,6 +1,6 @@
 # React+Vite & Supabase Project
 
-# 👉 Live URL: https://the-wild-oasis-ops.netlify.app/
+### 👉 Live URL: https://the-wild-oasis-ops.netlify.app/
 
 # 🏨 The Wild Oasis – Internal Hotel Management System
 
