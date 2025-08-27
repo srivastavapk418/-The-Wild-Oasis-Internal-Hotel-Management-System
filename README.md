@@ -1,6 +1,6 @@
 # React+Vite & Supabase Project
 
-#We can only delete checked-out bookings and those unconfirmed bookings that are unpaid (checked-in and unconfirmed(already paid) bookings can't be deleted as it can create loss of informations).
+# 👉 Live URL: https://the-wild-oasis-ops.netlify.app/
 
 # 🏨 The Wild Oasis – Internal Hotel Management System
 
@@ -55,16 +55,15 @@ src/
    cd -The-Wild-Oasis-Internal-Hotel-Management-System
    ```
 
--> npm install
-Start development server
+-> npm install,
+   Start development server
 
--> npm run dev
-Build for production
+-> npm run dev,
+   Build for production
 
--> npm run build
-🌐 Deployment
-The app is deployed on Netlify.
-👉 Live URL: https://the-wild-oasis-ops.netlify.app/
+-> npm run build,
+   🌐 Deployment,
+   The app is deployed on Netlify.
 
 🧑‍💻 Usage (for Staff):
 Log in with your staff account.
@@ -78,3 +77,4 @@ Manage cabins and view availability.
 
 📌 Note:
 This project is an internal hotel management tool (not for public guests).
+We can only delete checked-out bookings and those unconfirmed bookings that are unpaid (checked-in and unconfirmed(already paid) bookings can't be deleted as it can create loss of informations).
