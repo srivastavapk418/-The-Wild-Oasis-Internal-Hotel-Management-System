@@ -2,6 +2,10 @@
 
 ### 👉 Live URL: https://the-wild-oasis-ops.netlify.app/
 
+Login Credentials:
+email:    test@test.com
+password: 11111111
+
 # 🏨 The Wild Oasis – Internal Hotel Management System
 
 The **Wild Oasis** is a hotel staff web application designed to manage guest bookings, cabin details, and overall hotel operations.  
