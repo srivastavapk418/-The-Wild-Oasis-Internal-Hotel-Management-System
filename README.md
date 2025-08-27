@@ -55,8 +55,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/srivastavapk418/-The-Wild-Oasis-Internal-Hotel-Management-System.git
-   cd -The-Wild-Oasis-Internal-Hotel-Management-System
+   git clone https://github.com/srivastavapk418/Hotel-Management-System.git
+   cd Hotel-Management-System
    ```
 
 -> npm install,
